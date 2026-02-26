@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: robot-control
+
+server:
+  port: 8080
+
+predictive:
+  temperature-threshold: 70
+  vibration-threshold: 0.8
+  current-threshold: 2.0
